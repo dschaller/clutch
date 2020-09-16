@@ -32,7 +32,6 @@
   ],
   "yarnrc": "",
   "ignoreDeps": [
-    "@date-io/core",
     "babel-jest",
     "eslint"
   ],
