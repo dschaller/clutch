@@ -34,7 +34,6 @@
   "ignoreDeps": [
     "@date-io/core",
     "babel-jest",
-    "eslint",
-    "jest"
+    "eslint"
   ]
 }
