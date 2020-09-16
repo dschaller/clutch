@@ -15,7 +15,7 @@ require (
 	github.com/fullstorydev/grpcurl v1.7.0
 	github.com/go-git/go-billy/v5 v5.0.0
 	github.com/go-git/go-git/v5 v5.1.0
-	github.com/go-swagger/go-swagger v0.23.0
+	github.com/go-swagger/go-swagger v0.25.0
 	github.com/gobwas/glob v0.2.3
 	github.com/golang-migrate/migrate/v4 v4.12.2
 	github.com/golang/protobuf v1.4.2
