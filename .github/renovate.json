@@ -30,7 +30,7 @@
   "postUpdateOptions": [
     "gomodTidy"
   ],
-  "yarnrc": "",
+  "excludeSourceFiles": ["frontend/.yarnrc"],
   "ignoreDeps": [
     "babel-jest",
     "eslint"
