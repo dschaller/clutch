@@ -35,5 +35,6 @@
     "@date-io/core",
     "babel-jest",
     "eslint"
-  ]
+  ],
+  "persistRepoData": true
 }
